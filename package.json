@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "compile": "tsc --build tsconfig.es5.json",
-    "start": "node ./out/main.js"
+    "start": "node ./dist/main.js"
   },
   "keywords": [],
   "author": "",
